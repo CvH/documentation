@@ -1,4 +1,5 @@
 redirects:  
+    custom_edid: configuration/edid.md
     de/main_page: README.md
     de/releases: project/releases.md
     how_to/add_firmware: how-to/add-firmware.md
@@ -11,4 +12,3 @@ redirects:
     mirrors: project/mirrors.md
     raspberry_pi_faq: hardware/raspberry-pi.md
     releases: project/releases.md
-
